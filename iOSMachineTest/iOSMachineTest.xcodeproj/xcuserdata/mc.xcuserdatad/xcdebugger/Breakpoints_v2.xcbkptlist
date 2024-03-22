@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1DB2A06-CB5F-4C66-85FE-AE7F53CBC799"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22D88649-40C9-4B15-AE0A-D6A470B5B61E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSMachineTest/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getAllMoviewCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22D88649-40C9-4B15-AE0A-D6A470B5B61E - 8c25c1b663a17f43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;iOSMachineTest.GroupResponse, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "22D88649-40C9-4B15-AE0A-D6A470B5B61E - 8c25c1b663a17f43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;iOSMachineTest.GroupResponse, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "22D88649-40C9-4B15-AE0A-D6A470B5B61E - fd571857ee1fccbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;iOSMachineTest.GroupModel&gt;, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53A2918B-30A9-41DC-8D0D-F0E34F635364"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSMachineTest/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getAllMoviewCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53A2918B-30A9-41DC-8D0D-F0E34F635364 - fd571857ee1fccda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;iOSMachineTest.GroupModel&gt;, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "53A2918B-30A9-41DC-8D0D-F0E34F635364 - 8c25c1b663a17f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;iOSMachineTest.GroupResponse, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F0B72F9-C135-41FD-B4C3-ECC3E4A0A4DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSMachineTest/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getAllMoviewCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F0B72F9-C135-41FD-B4C3-ECC3E4A0A4DD - fd571857ee1fcc79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;iOSMachineTest.GroupModel&gt;, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "2F0B72F9-C135-41FD-B4C3-ECC3E4A0A4DD - 8c25c1b663a17f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;iOSMachineTest.GroupResponse, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D617B64D-8645-40A9-8D34-91A4B163F0E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSMachineTest/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getAllMoviewCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D617B64D-8645-40A9-8D34-91A4B163F0E5 - 8c25c1b663a17f60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;iOSMachineTest.GroupResponse, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "D617B64D-8645-40A9-8D34-91A4B163F0E5 - 8c25c1b663a17f60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;iOSMachineTest.GroupResponse, Alamofire.AFError&gt;) -&gt; () in iOSMachineTest.IteamListService.getAllMoviewCategories() -&gt; ()"
+                  moduleName = "iOSMachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mc/Desktop/iOSMachineTest/iOSMachineTest/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
